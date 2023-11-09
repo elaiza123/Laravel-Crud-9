@@ -1,0 +1,9 @@
+body {
+    background-color: chartreuse;
+}
+
+.reg {
+    background-color: aqua;
+    color: blueviolet;
+    display: flex;
+}
